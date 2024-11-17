@@ -1,4 +1,4 @@
-### linux-komutlar
+### Linux-Konsol-Komutları
 
 Bu proje, temel Linux komutlarının açıklamalarını, kullanım şekillerini ve örnek çıktıları içermektedir. Her komut için açıklamalar, kullanım örnekleri ve komutların çıktıları sunulmaktadır.
 
